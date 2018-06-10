@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Test xml">
+	<test name="testng test">
+		<classes >
+			<class name="com.crm.qa.testcases.LoginPageTest"/>
+			<class name="com.crm.qa.testcases.HomePageTest"/>
+		</classes>
+	</test>
+</suite>
